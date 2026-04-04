@@ -1,0 +1,6 @@
+/* This targets the h1 element */
+h1 {
+  color: DeepSkyBlue;      /* Changes text color */
+  text-align: center;      /* Centers the text */
+  font-family: 'Times New Roman', Times, serif; /* Changes the font style */
+}
