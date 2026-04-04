@@ -1,6 +1,6 @@
 /* This targets the h1 element */
 h1 {
-  color: DeepSkyBlue;      /* Changes text color */
+  color: rgb(240, 168, 35);      /* Changes text color */
   text-align: center;      /* Centers the text */
-  font-family: 'Times New Roman', Times, serif; /* Changes the font style */
+  font-family: Arial, Helvetica, sans-serif; /* Changes the font style */
 }
